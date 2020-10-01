@@ -78,6 +78,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Lau, Sharon (@sharlau)
 
+- [X] Chaudhary, Rahul (@rahulchaudhary2244)
+
 - [X] Leonard, Oscar (@oscarleonard)
 
 - [X] Louth, Brittany (@blouth620)
